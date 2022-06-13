@@ -21,8 +21,9 @@ echo "    ";
 echo "    ";
 echo "<< Starting up Cyber-Armor-VPN™ >>";
 echo "----------------------------------";
+# Insert VPN start command;
 echo "||||||||||||||||||||||||||||||||||";
 echo "✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓";
-
-# Insert openvpn/protonvpn command;
-echo "Protection is active!";
+echo "*Protection is active!*";
+echo "  ";
+echo "  ";
