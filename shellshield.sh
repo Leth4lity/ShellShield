@@ -1,15 +1,14 @@
-echo "    ";
-echo "    ";
 echo "Welcome to Shellshield!";
 echo "    ";
 echo "    ";
 echo "created by Leth4lity.";
 echo "    ";
+echo "    ";
 echo "The Guardian of the Open Internet."
 echo "    ";
 echo "    ";
-echo "Login: ";
-read $USER;
+echo "Login:"; read $USER;
+#read $USER;
 
 # Password Management
 
