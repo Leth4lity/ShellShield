@@ -24,6 +24,7 @@ echo "----------------------------------";
 # Insert VPN start command;
 echo "||||||||||||||||||||||||||||||||||";
 echo "✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓";
-echo "*Protection is active!*";
+echo "* Protection is active! *";
 echo "  ";
 echo "  ";
+echo "Updating packages and repositories.. ✓";
