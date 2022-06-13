@@ -28,3 +28,4 @@ echo "* Protection is active! *";
 echo "  ";
 echo "  ";
 echo "Updating packages and repositories.. ✓";
+echo "  ";
