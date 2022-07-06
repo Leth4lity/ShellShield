@@ -2,6 +2,7 @@
 
 -------------------------------
 
-"The Armor of the Internet."
+A Bulletproof Vest for Internet Surfing.
+
 
 
