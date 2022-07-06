@@ -2,7 +2,7 @@
 
 -------------------------------
 
-The Bulletproof Vest for Internet Surfing.
+Your Bulletproof Vest for Internet Surfing.
 
 
 
