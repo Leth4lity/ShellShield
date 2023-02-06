@@ -3,7 +3,7 @@
 -------------------------------
 Dear Internet,
 
-My  understand the importance of staying protected in the digital world. With the increasing threat of cyber attacks, it's crucial to educate and motivate individuals to practice safe cyber techniques.
+We all understand the importance of staying protected in the digital world. With the increasing threat of cyber attacks, it's crucial to educate and motivate individuals to practice safe cyber techniques.
 
 That's why we propose implementing a user-friendly platform that not only educates users on safe cyber habits but also motivates and rewards them for doing so. Our platform will provide interactive lessons, quizzes, and simulations to effectively educate users on the dangers of cyber attacks and how to avoid them.
 
